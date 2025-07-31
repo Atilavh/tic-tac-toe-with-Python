@@ -3,6 +3,9 @@
 A simple **Tic Tac Toe** game (also known as **دوز**) implemented in Python for the terminal.  
 It features a colored board display using the `colorama` library and includes an AI opponent that plays automatically against the user.
 
+![Gameplay Screenshot 1](screenshots/screenshot1.png)
+![Gameplay Screenshot 2](screenshots/screenshot2.png)
+
 ---
 
 ## 🇮🇷 بازی دوز (Tic Tac Toe) در ترمینال
